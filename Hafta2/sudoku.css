@@ -1,0 +1,51 @@
+
+
+body{
+    background-color:rgb(197, 228, 255);
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    align-self: center;
+    text-align: center;
+}
+
+
+table,td,tr{
+    border: 1px solid black;
+    background-color:white;
+    border-collapse: collapse;
+    margin: 2px;
+
+}
+
+td,tr{
+
+    width: 25px;
+    height: 15px;
+    text-align: center;
+
+}
+
+div.cerceve{
+
+    border: 3px solid black;
+    width: 265px;
+    height: 208px;
+    padding: 5px;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+
+    flex-wrap:wrap;
+
+
+
+}
+
